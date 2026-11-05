@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello from developer 1!\n");
+    puts("Hello from developer 2!");
     return 0;
 }
