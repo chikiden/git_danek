@@ -5,5 +5,6 @@
 Исходная запись: оп салямалекум
 
 Weather: snow (developer 1).
+Weather: rain (developer 2).
 
 Добавлена программа new_file.c.
