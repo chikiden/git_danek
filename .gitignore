@@ -1,0 +1,6 @@
+# Generated binaries and object files
+*.exe
+*.o
+*.obj
+/calculator
+/new_file
